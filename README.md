@@ -119,6 +119,11 @@ The built-in sample data contains six students with different service types and 
 
 ## Coursework
 
-- **Developed by:** DSA BROS - Samy, Chesta, Oscar, Fredy, Autfill627, and boozeman
+- **Developed by:**
+-                   226141608 Samy Mujinga Wa pelekoni
+-                   226034755 Immanuel Louw
+-                   226133745 Oscar Mayumbelo
+-                   226008053 Tavey Ngenokesho
+-               
 - **Course:** Computer Science - Data Structures & Algorithms
 - **Institution:** NUST
