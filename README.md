@@ -124,6 +124,7 @@ The built-in sample data contains six students with different service types and 
 -                   226034755 Immanuel Louw
 -                   226133745 Oscar Mayumbelo
 -                   226008053 Tavey Ngenokesho
+-                   226051625 Ryan Kamolakamwe
 -               
 - **Course:** Computer Science - Data Structures & Algorithms
 - **Institution:** NUST
