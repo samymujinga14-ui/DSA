@@ -4,54 +4,42 @@ A Java console application that simulates the operation of a student service cen
 
 ## Features
 
-- FIFO queue: Enqueue sample students or add students manually, display the waiting queue, and serve the next student.
-- Service records: Store student records in a singly linked list.
-- Record management: Search by name, student number, or both; insert records; update service types; and delete records.
-- Service simulation: Serve students instantly or use a real-time countdown where one simulated minute takes one second.
-- Sorting and searching: Use selection, insertion, merge, and quick sort, together with linear and binary search.
-- Performance comparison: Compare average sorting times for several randomly generated input sizes.
-- Postfix evaluation: Evaluate space-separated arithmetic expressions using a custom array-based stack.
-- Statistics: Calculate total, average, median, mode, highest, lowest, and service-time distribution values.
+> FIFO queue: Enqueue sample students or add students manually, display the waiting queue, and serve the next student.
+  
+> Service records: Store student records in a singly linked list.
+  
+> Record management: Search by name, student number, or both; insert records; update service types; and delete records.
+  
+> Service simulation: Serve students instantly or use a real-time countdown where one simulated minute takes one second.
+  
+> Sorting and searching: Use selection, insertion, merge, and quick sort, together with linear and binary search.
+  
+> Performance comparison: Compare average sorting times for several randomly generated input sizes.
+  
+> Postfix evaluation: Evaluate space-separated arithmetic expressions using a custom array-based stack.
+  
+> Statistics: Calculate total, average, median, mode, highest, lowest, and service-time distribution values.
 
 Requirements
 
 - Java Development Kit (JDK) 8 or later
 - A terminal or command prompt
 
-Check that Java is installed:
-
-```bash
-java -version
-javac -version
-```
-
-
 ## Running the Program
 
 The primary runnable version is the self-contained `Main.java` file. From the project directory, compile and run it with:
 
-```bash
+
 javac Main.java
 java Main
-```
+
 
 
 On Windows PowerShell, the commands are the same:
 
-```powershell
+
 javac Main.java
 java Main
-```
-
-
-To use this project from a remote repository, clone it first and replace the placeholder URL with the repository's actual URL:
-
-```bash
-git clone https://github.com/samymujinga14-ui/DSA
-cd DSA
-javac Main.java
-java Main
-```
 
 
 The project is intentionally kept in one self-contained source file, so compile `Main.java` directly.
@@ -59,7 +47,6 @@ The project is intentionally kept in one self-contained source file, so compile 
 ### Menu Options
 
 | Option | Operation |
-| --- | --- |
 
 | 1 | Enqueue the sample students |
 | 2 | Serve the next student instantly or with a real-time countdown |
@@ -83,9 +70,7 @@ After most operations, press **Enter** to return to the main menu.
 
 Choose option `11` and enter an expression with spaces between tokens:
 
-```text
 5 6 2 + *
-```
 
 
 The result is `40` because the expression represents `5 * (6 + 2)`.
@@ -120,11 +105,11 @@ The built-in sample data contains six students with different service types and 
 ## Coursework
 
 - **Developed by:**
--                   226141608 Samy Mujinga Wa pelekoni
--                   226034755 Immanuel Louw
--                   226133745 Oscar Mayumbelo
--                   226008053 Tavey Ngenokesho
--                   226051625 Ryan Kamolakamwe
--               
+                    226141608 Samy Mujinga Wa pelekoni
+                    226034755 Immanuel Louw
+                    226133745 Oscar Mayumbelo
+                    226008053 Tavey Ngenokesho
+                    226051625 Ryan Kamolakamwe
+                    226142493 Fredy Annanias
 - **Course:** Computer Science - Data Structures & Algorithms
 - **Institution:** NUST
